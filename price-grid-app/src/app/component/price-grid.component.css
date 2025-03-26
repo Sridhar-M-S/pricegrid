@@ -1,0 +1,23 @@
+.vertical-text {
+    writing-mode: sideways-lr;  
+    text-orientation: upright; 
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    --bs-table-bg-type: #cfe2ff !important;
+}
+thead{
+    --bs-table-bg-type: #cfe2ff !important;
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+    --bs-table-bg-type: #ffffff ; 
+}
+.widths{
+    border-right-width: 1px !important;
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+}
+th, td {
+    text-align: center;
+}
