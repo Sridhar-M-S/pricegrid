@@ -13,17 +13,17 @@ git clone https://github.com/Sridhar-M-S/pricegrid.git
 Prerequisites:
 Ensure Java (JDK 17 or higher) and Maven are installed.
 
-Check the versions using:
+Open a terminal and Check the versions using:
 
    java -version
    
    mvn -version
 
-1. Navigate to the `priceGrid` Spring Boot project folder.
+1. Open a terminal and Navigate to the `priceGrid` Spring Boot project folder.
 
-    cd   priceGrid
+   cd   priceGrid
    
-2. Open a terminal/command prompt and run the following command:
+2. Run the following command in a terminal:
 
    mvn spring-boot:run
    
@@ -39,25 +39,27 @@ To stop the running application, press CTRL + C
 Prerequisites:
 Install Node.js and Angular CLI
 
-Check the versions using:
+Open a terminal and Check the versions using:
 
-node -v
+   node -v
+   
+   npm -v
+   
+   ng version
 
-npm -v
+1. Open a terminal and Navigate to the `price-grid-app` angular project folder.
 
-ng version
+   cd price-grid-app  
+   
+   npm install
 
-1. Navigate to the `price-grid-app` angular project folder.
-cd price-grid-app  
+3. In a terminal start the Angular application with:
 
-npm install
+   ng serve
 
-2. Start the Angular application with:
-    ng serve
+5. The application should now be running.
 
-3. The application should now be running.
-
-4. The Angular app should be accessible at http://localhost:4200/
+6. The Angular app should be accessible at http://localhost:4200/
 
 To stop the Angular app, press CTRL + C
 
