@@ -1,3 +1,36 @@
+# How to Run the Application
+
+## Run Spring Boot Application
+
+To run the Spring Boot application, ensure you have **Java** and **Maven** installed.
+
+1. Navigate to the `priceGrid` Spring Boot project folder.
+2. Open a terminal/command prompt and run the following command:
+
+   mvn spring-boot:run
+   
+3.The Spring Boot application will start successfully
+
+## Run Angular Application
+
+To run the Angular application, you need **Node.js** and **Angular CLI** installed.
+
+1.Open a terminal and navigate to the Angular project folder.
+
+2.Install dependencies by running:
+    npm install
+
+3.Start the Angular application with:
+    ng serve
+
+The application should now be running.
+
+
+## Stop the Running Application
+  Press CTRL + C
+
+
+
 Spring Boot and Angular Price API Project
 
 Overview
