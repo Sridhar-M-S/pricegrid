@@ -1,3 +1,11 @@
+# How to Checkout and Run the Project
+
+# **Clone the Repository**
+Open a terminal and run:
+
+git clone <repository_url>
+cd <project-folder>
+
 # How to Run the Application
 
 ## Run Spring Boot Application
