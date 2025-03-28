@@ -31,7 +31,7 @@ The application should now be running.
 
 
 
-Spring Boot and Angular Price API Project
+## Spring Boot and Angular Price API Project
 
 Overview
 
